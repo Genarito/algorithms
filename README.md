@@ -1,5 +1,5 @@
 # Algorithms
-Recopilation of special algorithms. Adaptations and/or improvements from others proyects.
+Recopilation of special algorithms. Adaptations and/or improvements from others projects.
 
 ## List
 * Edit Distance Ukkonen Algorithm: adaptation of this [incredible work](https://github.com/sunesimonsen/ukkonen)
@@ -13,4 +13,4 @@ Recopilation of special algorithms. Adaptations and/or improvements from others 
 
 ## Acknowledgements
 
-Obviously the authors of the papers and proyects. All the credits are for them.
+Obviously the authors of the papers and projects. All the credits are for them.
